@@ -1,0 +1,4 @@
+*.py
+*.png
+/fr
+!conway_mini.py
