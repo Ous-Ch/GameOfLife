@@ -1,1 +1,2 @@
-Conwya's Game of life with python an Tkinter lib :)
+# Game of Life
+  Conway's Game of life with python an Tkinter :)
