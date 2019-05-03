@@ -1,5 +1,4 @@
 *.py
 *.png
-.gitignore
 /fr
 !conway_mini.py
