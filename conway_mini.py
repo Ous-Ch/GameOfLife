@@ -1,4 +1,4 @@
-# Conway : Game Of Lif By Ousssama-Ch
+# Conway : Game Of Life By Ousssama-Ch
 
 from Tkinter import *
 from random import randrange
